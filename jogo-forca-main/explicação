@@ -1,0 +1,18 @@
+Cliente => setWord
+Python
+
+Servidor => _ _ _ _ _ _
+6 tentativas
+
+Cliente => setLetter
+A
+
+Servidor => -1 _ _ _ _ _ _
+5 tentativas
+
+Cliente => setLetter
+P
+
+Servidor => -1 P _ _ _ _ _
+5 tentativas
+6 tentativas
